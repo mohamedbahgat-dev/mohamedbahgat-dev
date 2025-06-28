@@ -23,12 +23,14 @@ Currently, I’m working on:
 
 ### 🎬 [Movie Search App](#)
 Search for movies using a public API, responsive UI built with React + Tailwind.
+https://moviemania-app-nine.vercel.app/
 
 ### ⛅ [Weather App](#)
 Real-time weather forecast using Zustand for global state management.
 
 ### 📝 [Task Manager App](#)
 Minimalist productivity tool with Redux and elegant component structure.
+https://momento-todo-planner-app.vercel.app/
 
 ---
 
