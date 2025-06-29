@@ -1,3 +1,7 @@
+![Test Image 1](banner.png)
+
+
+
 # 👋 Hi there, I'm Mohamed Bahgat
 
 ## 🧑‍💻 Junior Front-End Developer | Career-Changer | Creative Problem-Solver
